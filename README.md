@@ -5,7 +5,8 @@ The American Sign Language Detector with Custom Hand Signs is a Python project d
 ## Features
 
 - Real-time detection and interpretation of American Sign Language gestures.
-- Integration of a machine learning model for accurate gesture recognition.
+- Integration of a machine learning model built with Keras for accurate gesture recognition.
+- Utilizes OpenCV for image processing and real-time video capture.
 - Ability to add and customize new hand signs according to user preferences.
 - Simple and intuitive user interface for ease of use.
 
@@ -14,6 +15,7 @@ The American Sign Language Detector with Custom Hand Signs is a Python project d
 - Python
 - OpenCV
 - Machine Learning (TensorFlow)
+- Keras
 - NumPy
 - SciPy
 
